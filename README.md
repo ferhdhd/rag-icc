@@ -1,6 +1,6 @@
-RAG - ICC (Introdução à Ciência da Computação)
+# RAG - ICC (Introdução à Ciência da Computação)
 
-# Instalando as bibliotecas necessárias
+## Instalando as bibliotecas necessárias
 
 - Recomendável criar um ambiente virtual para instalar as bibliotecas (opcional)
 
@@ -10,7 +10,7 @@ RAG - ICC (Introdução à Ciência da Computação)
 pip install requirements.txt
 ```
 
-# Passo a Passo
+## Passo a Passo
 
 - Primeiramente, popular o banco de dados vetorial com os arquivos presentes na pasta /data
 
