@@ -1,0 +1,51 @@
+fase 4
+
+
+Você conseguiu entrar na sala que um dia abrigou o maior espelho de software livre do hemisfério sul! Faltam palavras para descrever a sua sensação de respeito por todo aquele maquinário que um dia compartilhou e ofereceu tantos recursos para a batalha contra o aprisionamento da tecnologia e contra as opressões do colonialismo digital.
+
+E ali, naquela sala pouco iluminada, você identifica letras escritas na parede:
+
+"bmfbw: dmabqdmt kwvbzwtilwz xwlm bmz wcbzia nitpia"
+
+Você sabe que essas letras são o seu novo desafio. Pelo que você já ouviu falar, a criptografia é uma técnica utilizada para codificar dados e informações para que apenas o(a) destinatário(a) consiga ler.
+
+A técnica de criptografar uma informação é feita a partir de um algoritmo que utiliza um padrão para codificar a mensagem, e o mesmo padrão deve ser utilizado para decodificar a mensagem.
+
+Mas e como descobrir esse padrão? Você sabe que usar a força bruta neste caso é inviável pois as possibilidades são muitas.
+
+Sua cabeça começa a ferver: e se você conseguir identificar algo que ajude a descobrir o padrão, assim como a equipe de Turing fez quando conseguiu quebrar a criptografia da Enigma?
+
+Então você começa a vasculhar o ambiente procurando por alguma pista, alguma informação, qualquer coisa que lhe dê ideias sobre como descriptografar a mensagem escrita na parede.
+
+A pouca iluminação dificulta o seu trabalho. Há apenas algumas faixas de luz que penetram por umas rachaduras na parede, provavelmente causadas por infiltrações contínuas resultantes da falta de manutenção nos telhados — um problema que existia desde antes do bitcídio (que é como se tornou popularmente conhecido o período de eventos catastróficos que se sucederam ao Caso do Vestível Controlador).
+
+Ao se mover pela sala, você pisa em folhas de papel velhas, e só consegue ver que se trata de antigas matérias publicadas pela SBC Horizontes, uma revista aberta e gratuita que era mantida pela Sociedade Brasileira de Computação para discutir temas relevantes da época. Você não consegue ler muita coisa porque a sala está escura… então você apenas guarda as folhas na sua mochila.
+
+É querendo melhorar a iluminação no local que, ao tentar remover o que você considerava ser uma sujeira acumulada numa das rachaduras, você encontra um pedaço de papel. Aparentemente, o papel foi inserido pelo lado externo há pouco tempo. Será mais uma ajuda da ressurgência? Mas por quê?
+
+Você abre o papel e, de um lado, está escrito:
+
+"Quando estava em dois a chave cabia em sua mão.
+Mas é preciso ser dez para somar a solução."
+
+“Use as instruções para descobrir a mensagem, e depois crie uma criptografia melhor."
+
+Então você entende: a ressurgência está testando para ver se pode confiar em você!
+
+Você vira, e do outro lado há símbolos e instruções que te lembram um fluxograma.
+
+Desafio: Descriptografar a mensagem, entendendo o seu conteúdo, e evoluir a criptografia do fluxograma para um esquema um pouco mais sofisticado (ex: que funcione diferente para vogais e consoantes).
+
+Resolução
+
+Para essa fase, você deve:
+
+1. Descriptografar a mensagem e revelar a mensagem original
+
+2. Criar um novo esquema de criptografia, representando em um fluxograma os passos para criptografar a mensagem original
+
+3. Compartilhar no seu tópico de Entregas das Fases: o seu fluxograma novo, uma mensagem criptografada com ele (qualquer mensagem da sua escolha), e a(s) chave(s) que você usou para criptografar.
+
+Sua solução (fluxograma) preferencialmente deve estar visível no seu post para não exigir que outras pessoas baixem algum arquivo para visualizá-la.
+
+4. Reivindicar seus pontos de XP: essa fase pode te dar o máximo de 5 XPs. Ao final do seu post, indique quanto de XP você reivindica pela sua resolução e porquê.

@@ -1,0 +1,16 @@
+fase 11
+
+A análise do Caso do Vestível Controlador revela múltiplas falhas em diferentes níveis do processo de desenvolvimento tecnológico. Um dos pontos mais críticos que identifiquei — e que ainda é pouco explorado — é a negligência com os testes de usabilidade e o desprezo pela experiência real das pessoas usuárias.
+
+Afirmação / Ponto central:  
+No centro das falhas do Vestível Controlador está a ausência de uma prática sólida de design centrado na pessoa usuária, negligenciando completamente a etapa de testes em contextos reais de uso. Essa omissão não é técnica apenas: ela é ética. Colocar no mundo uma tecnologia que afeta diretamente o corpo e a autonomia das pessoas sem garantir que ela funciona como esperado e que respeita as necessidades e limites das usuárias é irresponsável — e, neste caso, foi fatal.
+
+Evidências / Fundamentação:  
+A matéria que relata que “os testes com o vestível foram conduzidos apenas em ambientes laboratoriais controlados” e que “o dispositivo não passou por fases reais de validação com usuárias finais em uso cotidiano” explicita uma das causas centrais da catástrofe. O fato de o artefato ter se comportado de forma imprevisível quando em uso no ambiente de voo — onde as condições de interferência e carga cognitiva são extremas — é consequência direta disso. Além disso, relatos de que usuárias reportaram desconforto, comportamento estranho do vestível ou mesmo erros de comando que não puderam ser revertidos, revelam que os sinais de alerta estavam presentes, mas foram ignorados. Isso denota também uma cultura organizacional falha, em que as vozes das pessoas afetadas são silenciadas em prol de metas de entrega.
+
+Ressalvas e Contextualização:  
+É evidente que há uma cadeia de responsabilidades envolvida: não se trata de uma falha de uma única pessoa ou equipe, mas de uma dinâmica estrutural de desenvolvimento tecnológico que prioriza métricas de produtividade, controle e entrega em detrimento da segurança, bem-estar e dignidade das pessoas. Em um contexto como o descrito — com pressão política, sigilo comercial e uma estrutura hierárquica opressora — torna-se ainda mais difícil para profissionais que ocupam posições mais vulneráveis, especialmente mulheres, manifestarem preocupações éticas ou técnicas sem sofrerem represálias. Portanto, é fundamental também considerar o papel da cultura organizacional, das estruturas de poder e da ausência de espaços seguros para que riscos e problemas sejam reportados.
+
+Conclusão:  
+A principal lição que tiramos aqui é que uma computação socialmente consciente exige mais do que soluções técnicas: exige processos participativos, escuta ativa das pessoas usuárias, mecanismos de responsabilização e uma cultura que valorize o cuidado, a escuta e a iteração. Negligenciar a etapa de testes reais com usuárias reais não é só uma falha metodológica — é uma violação de princípios éticos básicos. Um sistema que afeta corpos precisa respeitar corpos. E isso começa ouvindo-os.
+

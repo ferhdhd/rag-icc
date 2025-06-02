@@ -1,0 +1,57 @@
+Fase 12 – Resumo das Entregas
+
+Objetivo: Criar, em equipe, um jogo educacional (digital ou híbrido) que contribua com o ODS #5 da ONU – Igualdade de Gênero, com foco especial na meta 5.b (uso de tecnologias para empoderamento de mulheres).
+
+---
+
+ENTREGAS OBRIGATÓRIAS (postar no tópico da equipe no fórum Fase 12)
+
+Entrega 1 – Empatia
+- Estudar o ODS #5, especialmente a meta 5.b
+- Pesquisar dados sobre a situação no Brasil e em Curitiba
+- Responder à pergunta:
+  “Por que é importante abordar o objetivo 5?”
+
+Entrega 2 – Definição
+- Escolher um problema específico relacionado ao ODS #5, meta 5.b
+- O problema deve poder ser tratado com uma solução computacional na forma de um jogo
+- Responder à pergunta:
+  “Qual problema tentaremos ajudar a resolver com nosso jogo?”
+
+Entrega 3 – Ideação
+- Listar várias ideias de jogos para resolver o problema definido
+- Avaliar prós e contras das ideias
+- Escolher a ideia mais promissora
+- Responder à pergunta:
+  “Qual será a nossa solução computacional (jogo)?”
+
+Entrega 4 – Prototipação e descrição
+- Criar um protótipo do jogo (usando ferramenta online ou manual)
+- Postar:
+  I. Link ou PDF com o protótipo
+  II. Lista de funcionalidades do jogo
+  III. Lista de atributos de qualidade do jogo (ex: acessibilidade, privacidade, usabilidade)
+
+Entrega 5 – Teste
+- Testar o protótipo com outras pessoas (amigas, colegas etc.)
+- Coletar feedback
+- Postar:
+  I. Como foi feito o teste e com quem
+  II. Quais melhorias foram feitas com base nos testes
+
+Entrega 6 – Videodemo
+- Criar um vídeo (máx. 5 minutos) OU uma apresentação em PDF que inclua:
+  I. Apresentação da equipe
+  II. O problema escolhido
+  III. A solução proposta (protótipo do jogo)
+  IV. As áreas da Computação envolvidas na implementação, uma por integrante, com explicação do papel de cada área
+
+---
+
+REGRAS E PONTUAÇÃO
+
+- Cada integrante deve fazer pelo menos 1 entrega no fórum (1 post no tópico da equipe)
+- XP: até 25 XP por participação na fase
+- Para receber XP, cada integrante deve no fim da Fase 12:
+  - Solicitar os pontos
+  - Justificar sua contribuição na equipe

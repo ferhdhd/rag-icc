@@ -1,0 +1,50 @@
+fase 6
+
+
+Depois que outras pessoas conseguiram superar a Ressurgência no evento da ordenação de quadros, começou a se disseminar a suspeita de que não era apenas a Ressurgência que tinha pessoas infiltradas em outros locais: havia uma pessoa infiltrada na Ressurgência!
+
+Após o evento da ordenação, o Diretor ordenou que os quadros fossem retornados ao DInf onde ficariam fora do conhecimento geral das pessoas do reino.
+
+De volta ao seu local de origem, os quadros estão lá, ordenados pelo tamanho físico, do maior para o menor.
+
+Como os quadros estão todos em suas posições corretas, um sistema mecânico de alarme está ativado. Se um quadro é removido da parede, o sistema dispara o alarme sonoro e abre o alçapão de iluminação sobre o local do quadro removido.
+
+A Ressurgência recebeu a informação de que uma mensagem ultra-confidencial foi colocada atrás do quadro que mede um 43cm de altura. Essa é a única informação disponível!
+
+Como você é uma das pessoas que ainda não tem conhecida ligação com a Ressurgência, mas que é confiável tanto pelas habilidades do pensamento computacional quanto pelos valores da luta por um conhecimento aberto e democrático, você recebeu a missão de encontrar a mensagem. Essa é uma grande demonstração de confiança dada pela Ressurgência: confiança na sua capacidade de conseguir a mensagem, e na sua integridade para portá-la!
+
+Você prontamente começou a estudar o problema: você sabe que alguns quadros possuem tamanhos próximos, sendo difícil identificar a diferença a olho nu. Você também sabe que, a partir do momento que remover um quadro da parede, o alarme disparará e a posição em que você estiver ficará iluminada.
+
+Além disso, desde que o acesso ao DInf foi violado, o Diretor procurou garantir sua credibilidade junto ao Magnífico ReiThor e montou guarda dedicada a rondar o prédio, garantindo que eventuais visitantes, mesmo autorizados, estivessem sob vigia.
+
+Você identificou que as rondas ocorrem de forma contínua e, de tempos em tempos, o vigia entra no DInf para verificar as condições internas.
+
+Portanto, sua única chance é aguardar o vigia sair do DInf e, quando você calcular que ele esteja no ponto mais distante da ronda, remover o quadro da parede, pegar a mensagem, e pendurá-lo novamente. Nesse melhor cenário, você calcula que deverá ter em torno de 30 segundos do momento em que você remover o quadro da parede até o vigia chegar correndo ao seu local.
+
+Ou seja: você precisa fazer uma remoção certeira, encontrando o quadro correto, pegando rapidamente e guardando a mensagem, e colocando o quadro de volta no seu devido lugar.
+
+Quando o vigia chegar, você ainda deverá usar seus melhores dons de interpretação para mostrar surpresa com o ocorrido – e preocupação com o fato de que pode haver alguém escondido no interior do departamento. Sim… será suspeito… mas você é uma das poucas pessoas da Liga que ainda não tem suspeita de vínculo com a Ressurgência, e isso lhe dá moral e vantagem. Quando o vigia chegar, faça cara de surpresa e susto, como se o alarme tivesse disparado sem que você tivesse tocado em nada.
+
+Lembre-o de que pode ser uma distração da Ressurgência para que alguém tente entrar na sala do espelho, e corra lá para verificar. Aproveite o momento para sair do DInf. Não olhe a mensagem até que você esteja em um lugar seguro!
+
+Resumindo: você sabe que, para conseguir passar dessa fase, você deverá encontrar o quadro certo da forma mais rápida possível (i.e., minimizando a quantidade de medições), e obter a mensagem com apenas 1 único movimento de remoção de quadro para não ativar o alarme antes de encontrar a mensagem. E sabe que precisará de um instrumento de medição (ex: uma régua ou trena de medida) para conferir a medida dos quadros.
+
+Agora, você precisa criar seu plano: ao chegar no DInf e estar frente aos quadros, cuja quantidade e tamanhos você desconhece (pode haver 1 ou n quadros pendurados), como fazer para encontrar o quadro correto e obter a mensagem, minimizando a quantidade de medições e removendo apenas um quadro?
+
+Para essa fase, você deve:
+
+1. Resolver o desafio individualmente, criando um algoritmo que ajude a buscar pelo quadro que possui a medida especificada e a obter a mensagem que está atrás dele com a menor quantidade de medições possível.
+
+2. Representar seu algoritmo por meio de um fluxograma que possa ser executado por outra pessoa.
+
+3. Indicar o custo de executar sua solução com relação ao número de vezes em que você precisará medir quadros.
+
+4. Compartilhar a sua solução como resposta no seu tópico no fórum Entregas das Fases.
+
+5. Junto ao post com a sua solução, explicar a solução e reivindicar o seu XP (máximo: 7 XP).
+
+Analise a sua solução: É possível encontrar a mensagem com menos medições de quadros? É possível deixar o fluxograma mais simples e mais fácil de entender e executar?
+
+spoiler: a mensagem foi marcada em uma impressão antiga de uma matéria sobre O Caso do Vestível Controlador.
+
+Pergunta brinde: qual é a mensagem deixada para a Ressurgência?

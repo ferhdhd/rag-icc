@@ -1,0 +1,93 @@
+===== fase 2 =====
+
+
+Com uma pergunta certeira, você descobriu a entrada correta e se dirigiu a um dos ambientes restritos do Reino do Politécnico: o Departamento de Informática (DInf). Conhecido pela sua tradição em Software Livre, o DInf foi uma das grandes resistências aos ataques que se sucederam ao Caso do Vestível Controlador.
+
+Agora, décadas depois, o DInf se tornou uma espécie de Santuário em que se celebram os esforços de importantes nomes da outrora conhecida Ciência da Computação. O acesso ao local foi restrito pelo Diretor do Reino, fiel à figura do mandatário maior, conhecido como Magnânimo ReiThor. Desde que se tornou Reino, as castas pertencentes à elite do Politécnico passaram a restringir o acesso a todo o conhecimento e recursos produzidos, incluindo aqueles relacionados ao período da era digital.
+
+O Diretor passou a temer que o DInf se tornasse um símbolo da Ressurgência, um grupo de pessoas que luta contra as restrições de acesso impostas pelas castas da elite. Para impedir a peregrinação ao local, restrições de acesso foram implementadas por meio de travas mecânicas na porta de entrada.
+
+Atualmente, para adentrar os recintos do Departamento de Informática, um teste, conhecido como o “Desafio dos Labs”, precisa ser resolvido. O teste consiste em colocar 25 placas em suas posições corretas em um painel de concreto, e então acionar uma alavanca para abrir a porta de entrada. Cada placa representa uma informação que caracteriza um dos laboratórios lendários do DInf. Caso haja alguma placa em posição errada, o acionamento da alavanca causará a destruição de todas as placas, resultando na perda de informação valiosa.
+
+No painel de concreto há 5 grandes blocos, cada um com fendas (slots) para encaixar 5 placas. Cada bloco representa o espaço de um Laboratório, e cada slot representa uma característica do lab: 1. Nome do Lab; 2. Docente representante; 3. Área de pesquisa; 4. Linguagem de programação; 5. Livro.
+
+Os membros da Ressurgência, querendo recuperar o acesso ao DInf, observaram ao longo dos anos as tentativas de abertura das portas. Dos resultados das aberturas falhas e com sucesso, eles foram capazes de chegar a 15 regras que devem ser satisfeitas para que as portas sejam abertas. Confiando na sua capacidade de resolver o problema, eles lhe enviaram um manuscrito com as 15 regras que devem ser obrigatoriamente atendidas.
+
+Você recebeu as 25 placas abaixo:
+
+"Algoritmos: teoria e prática" 
+"Arquitetura de Computadores" 
+"Artificial Intelligence: a modern approach" 
+"C" 
+"C3SL"
+"Castilho"
+"Computação Científica"
+"Computer Networks"
+"Design Patterns: Elements of Reusable Object-Oriented Software"
+"Elias"
+"Engenharia de Software"
+"Carmem"
+"GrES"
+"Go"
+"HiPES"
+"Banco de Dados"
+"Java"
+"LARSIS"
+"Silvia"
+"BD"
+"Pascal"
+"Python"
+"Redes de Computadores"
+"The Art of Computer Systems Performance Analysis"
+"Zanata"
+
+LAB 1
+
+LAB 2
+
+LAB 3
+
+LAB 4
+
+LAB 5
+
+Nome do Lab
+
+Docente
+
+Área de Pesquisa
+
+Linguagem
+
+Livro
+
+Ajuda da Ressurgência: 15 regras que devem ser obrigatoriamente atendidas
+
+    Silvia coordena o GrES
+    Carmem recomenda o livro Algoritmos: teoria e prática
+    Zanata pesquisa na área de Arquitetura de Computadores
+    O C3SL fica do lado esquerdo do BD
+    Quem coordena o C3SL pesquisa em Computação Científica
+    Quem programa em C usa o livro Design Patterns: Elements of Reusable Object-Oriented Software
+    Quem coordena o LARSIS gosta de programar em "Java"
+    Quem ocupa o Lab do meio pesquisa em Engenharia de Software
+    Elias ocupa o primeiro Lab
+    Quem programa em Python está entre quem usa o livro Computer Networks e o Lab GrES
+    Quem gosta de Java vive ao lado de quem usa o livro The Art of Computer Systems Performance Analysis
+    Quem programa em Go pesquisa em Banco de Dados
+    Castilho gosta de Pascal
+    Elias fica ao lado do Hipes
+    Quem programa em Phyton está ao lado de quem pesquisa em Redes de Computadores
+
+Você já tem as placas e já tem as regras: passar essa fase é com você!
+
+Para essa fase, você deve:
+Resolução.
+
+1. Resolver o desafio individualmente, seguindo as dicas -- aqui tem uma planilha que pode facilitar sua vida (faça uma cópia dela)
+
+2. Criar um post no seu tópico do fórum Entregas das Fases com a solução
+
+3. Indicar o tempo gasto para resolver o desafio.
+
+4. Reivindicar seus pontos de XP: essa fase pode te dar o máximo de 2 XPs. Ao final do seu post, indique quanto de XP você reivindica pela sua resolução.

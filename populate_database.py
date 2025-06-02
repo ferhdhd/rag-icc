@@ -2,6 +2,8 @@ import argparse
 import os
 import shutil
 from langchain_community.document_loaders import PyPDFDirectoryLoader
+from langchain_community.document_loaders import TextLoader
+from langchain_community.document_loaders import DirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
@@ -9,7 +11,7 @@ from langchain_chroma import Chroma
 
 
 CHROMA_PATH = "chroma"
-DATA_PATH = "data"
+DATA_PATH = "dataset_rag"
 
 def main():
     parser = argparse.ArgumentParser()
@@ -19,11 +21,19 @@ def main():
         print("✨ Apagando o DB")
         clear_database()
     
-    documents = load_documents()
+    documents = load_documents_txt()
     chunks = split_documents(documents)
     add_to_chroma(chunks)
 
-def load_documents():
+def load_documents_txt():
+    loader = DirectoryLoader(
+        path=DATA_PATH,
+        glob="**/*.txt",
+        loader_cls=TextLoader
+    )
+    return loader.load()
+
+def load_documents_pdf():
     document_loader = PyPDFDirectoryLoader(DATA_PATH)
     return document_loader.load()
 

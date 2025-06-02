@@ -1,0 +1,45 @@
+fase 7
+
+Diferentes mensagens foram encontradas graças às habilidades dos membros da liga, sendo que algumas delas foram inseridas em impressões antigas que revelavam mais fatos sobre o Caso do Vestível Controlador. Além das revelações de que a Equipe de desenvolvimento do “Vestível Controlador” trabalhava sob enorme pressão, outra matéria denunciava que o “Vestível Controlador” pode ter sido projetado para falhar.
+
+Com as mensagens obtidas, as suspeitas de que havia uma pessoa infiltrada na Ressurgência foram confirmadas! E agora é preciso agir antes que o reino consiga mapear todas as pessoas que fazem parte da Ressurgência e lançar sua onda de repressão. É preciso agir rápido e identificar quem é a pessoa infiltrada!
+
+Só pode fazer parte da Ressurgência uma pessoa recomendada e aprovada por outras pessoas que já fazem parte dela. Porém, ninguém, nem mesmo uma pessoa em posição de comando, conhece todas as outras que integram a Ressurgência. Por questões de segurança, a Ressurgência mantém uma estrutura de comando descentralizada, coordenando uma rede de pessoas que atuam nas mais diferentes partes e atividades do Reino.
+
+As suspeitas de infiltração datam de antes do seu envolvimento na Liga, sendo reforçadas por evidências de pequenos vazamentos das operações e, agora, confirmadas pelas mensagens obtidas. Mensagens encontradas por outros membros informaram que esses vazamentos parecem seguir padrões, ocorrendo em diferentes locais e envolvendo diferentes pessoas. Segundo as mensagens, está ocorrendo uma espionagem sistematizada por uma pessoa infiltrada por ação do Reino.
+
+A Ressurgência não tem tempo a perder…
+
+Para identificar quem é a pessoa infiltrada, a Ressurgência mapeou os pontos de vazamento e as pessoas de alguma forma conectadas a eles, e circulou um convite para um open bar em comemoração antecipada ao aniversário de Alan Turing.
+
+Não há como saber quantas pessoas estarão no evento. Porém, se houver uma pessoa infiltrada, ela será alguém que conhece TODAS as pessoas presentes, mas que não é conhecida por NENHUMA delas!
+
+Como você é uma das pessoas livres de suspeitas, você recebeu a missão de ir até o evento identificar se há uma pessoa infiltrada e reportar quem é essa pessoa, caso ela esteja lá.
+
+Para identificar se há uma pessoa infiltrada e quem é ela, você deve conversar com as pessoas que estarão no evento. Você só pode abordar uma pessoa por vez, e só pode fazer a seguinte pergunta: "Com licença, você conhece essa outra pessoa?" (apontando para outra pessoa presente no evento). A pessoa responderá Sim ou Não. Nenhum outro tipo de pergunta e nenhum outro tipo de resposta.
+
+Para garantir que as pessoas lhe darão a resposta correta a esta pergunta, o comando da Ressurgência inseriu uma dosagem mínima de um Soro da Verdade nas bebidas que serão servidas no evento. Essa dosagem garante que as pessoas lhe darão a resposta correta, mas apenas por um curto período de tempo. Por isso, você terá que identificar a pessoa infiltrada fazendo a menor quantidade possível de perguntas. Assuma que todas as pessoas chegarão com sede ao evento e já se servirão de alguma bebida.
+
+Seu desafio então é: com a menor quantidade possível de perguntas, identificar se existe ou não uma pessoa infiltrada no evento e dizer quem é ela, caso ela exista.
+
+Para essa fase, você deve:
+
+1. Elaborar um algoritmo para identificar se existe uma pessoa infiltrada no evento. Se existir, deve nomeá-la; Se não existir, deve informar que não há.
+2. Representar o algoritmo na forma de fluxograma, cuidando da legibilidade, facilidade de entendimento e execução.
+3. Em relação à quantidade de pessoas na festa, indicar quantas perguntas são necessárias no seu algoritmo para garantir que seja encontrada a pessoa infiltrada ou concluir que não há nenhuma.
+4. Compartilhar sua solução como um novo post no seu tópico do fórum Entregas das Fases.
+5. Reivindicar os seus pontos de XP pela resolução, justificando os pontos solicitados. Máximo: 8 XP.
+
+Pergunta brinde: qual é a quantidade mínima de perguntas para garantir que foi identificada a pessoa certa?
+
+Atenção às restrições:
+1. Sua solução deve funcionar para um evento com n pessoas (sendo n > 1);
+2. Você pode fazer apenas uma pergunta por vez, e a pessoa responderá "Sim" ou "Não" (e.g., "Olá, você conhece aquela pessoa ali?");
+3. Você deve resolver o desafio com a menor quantidade possível de perguntas;
+4. Ao final, sua solução deve indicar quem é a pessoa infiltrada, ou então informar que não há nenhuma.
+
+Dicas:
+i. simule a resolução do desafio (em papel, ou em uma planilha), pois isso te ajudará a entender os passos (ações) necessários e a sua ordem.
+ii. teste sua solução com um conjunto pequeno de pessoas (ex: n = 5) e depois vá aumentando a quantidade (n+1) para ver se ela continua funcionando corretamente.
+iii. analise a quantidade de perguntas necessárias para se obter a resposta e veja se é possível fazer de forma mais eficiente (com menos perguntas).
+iv. mostre sua solução a alguém, e veja se essa pessoa consegue encontrar a pessoa infiltrada (ou dizer que não há) seguindo os passos da sua solução. Isso vai te ajudar a ver se a solução está fácil de entender.

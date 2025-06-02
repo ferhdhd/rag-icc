@@ -1,0 +1,78 @@
+fase 5
+
+
+Você ganhou a confiança da Ressurgência ao passar pelas fases até aqui e entregar a ela um esquema para (des)criptografar mensagens.
+
+O fluxograma que você criou agora viabiliza um canal de comunicação seguro entre vocês (tão seguro quanto o seu esforço na fase anterior permitir). Por meio dele, você ficou sabendo, por exemplo, que outras duas matérias sobre O Caso do Vestível Controlador foram encontradas por outros membros da liga, e que revelavam outros problemas que podiam ter levado ao biticídio. Essas matérias já foram divulgadas no arquivo sobre O Caso do Vestível Controlador.
+
+Se antes de entrar no DInf você tinha motivação em aprender mais e subir na Liga do Pensamento Computacional, agora, ao sair, você sente ainda mais responsabilidade em passar pelas fases, superando os desafios e desenvolvendo suas habilidades. Com o conhecimento e o acesso obtido, você pode ajudar a libertar mais conhecimentos para todas as pessoas do reino e além dele.
+
+E não tardou para você ter a oportunidade de ajudar a Ressurgência: nesse final de semana, no salão do prédio da tecnologia (aquele, com um grande mural do Poty Lazzarotto), haverá um evento organizado pelo Reino que poderá render uma boa quantidade de recursos em moedas. Há rumores de que essas moedas têm muito mais importância que seu valor monetário. Talvez sejam moedas raras, ou de alguma importância estratégica. Por isso, obviamente, o evento não será aberto às classes inferiores do Reino do Politécnico e apenas pessoas convidadas poderão participar.
+
+Mas a Ressurgência, muito bem informada, conseguiu infiltrar alguém no evento e essa pessoa descobriu mais detalhes sobre o desafio que ocorrerá: haverá diversos quadros de grandes personalidades da Computação, cada quadro representando uma pessoa que contribuiu com o desenvolvimento da área. Alguns dizem esses quadros são réplicas de quadros que um dia estiveram na parede do DInf, lembrando de feitos notáveis dessas personalidades. Outros dizem que esses são os quadros originais daquela época.
+
+Não se sabe quantos quadros estarão no salão: sabe-se apenas que eles possuem tamanhos variados e estarão pendurados na parede do mural, dispostos lado-a-lado em ordem alfabética (A a Z). Por exemplo: Ada Lovelace, Alan Turing, Annie Easley, Grace Hopper, John von Neumann, Margaret Hamilton, Tim Berners-Lee, etc.
+
+O desafio consiste em ordenar todos os quadros de acordo com o seu tamanho, do maior para o menor, formando uma escada.
+
+Pode parecer fácil, mas há mais complicadores na situação…
+
+Ao começar o evento, o salão estará todo escuro, impedindo a análise visual do tamanho de todos os quadros: será preciso usar as mãos!
+
+Os quadros precisam ser manuseados com cuidado: são frágeis, pois datam de muito tempo. Portanto, não será permitido mover os quadros para outro local: eles poderão ser pendurados em posições diferentes, mas precisarão permanecer na mesma parede do espaço reservado para pendurar os quadros. No máximo, 2 quadros poderão estar fora da parede num mesmo momento.
+
+O prêmio para quem conseguir ordenar os quadros será de n*n moedas, sendo n a quantidade de quadros a serem ordenados. Ou seja, se houver 7 quadros (n = 7), então o prêmio será de 49 moedas. Se houver 10, será de 100 moedas, se houver 100, será de 10.000 moedas, e assim por diante.
+
+Para evitar o manuseio desnecessário dos quadros, haverá um custo de 1 moeda cada vez que um quadro for pendurado.
+
+Ou seja: uma vez que um quadro foi retirado da parede, a pessoa que participará do desafio precisará pagar 1 moeda para poder pendurá-lo novamente. Se a pessoa remover e pendurar mais vezes que o necessário, em vez de receber um prêmio ela poderá acabar saindo do desafio devendo para o Reino! E dever para o Reino do Politécnico é uma situação em que ninguém gostaria de estar… muito menos alguém que tem ligações com a Ressurgência.
+
+E é aí que a coisa fica mais complicada: a Ressurgência possui recursos escassos, obtidos por doações e pelo trabalho de seus membros, e a pessoa infiltrada não possui familiaridade com a resolução de problemas desta natureza. Portanto, são grandes as chances dessa pessoa gastar os poucos recursos da Ressurgência e ainda ficar devendo ao Reino.
+
+E é aí que você entra…
+
+A Ressurgência utilizou o seu esquema de criptografia e lhe enviou uma mensagem solicitando um fluxograma do algoritmo que a pessoa infiltrada deverá executar para conseguir ordenar os quadros com o menor custo possível de moedas.
+
+Ou seja: seguindo o seu fluxograma, a pessoa deverá conseguir ordenar todos os n quadros, do maior para o menor, gastando o mínimo possível de moedas (i.e., movendo um quadro de lugar apenas quando for realmente necessário).
+
+Você então se lembra de ter ouvido falar que problemas de ordenação estavam entre os tipos de problemas mais investigados e mais discutidos na computação, e que diversos algoritmos eficientes foram propostos e amplamente aplicados. Você não lembra detalhes, mas de uma coisa você tem certeza: é possível ordenar os quadros pendurando-os menos de n*n vezes e sair do evento com lucro!
+
+É aí que você se lembra de ter visto mais detalhes sobre ordenação no livro que você encontrou na mesa de centro no DInf. Você corre até lá, e na página 12 você encontra um fluxograma de um algoritmo de ordenação, provavelmente deixado por outra pessoa que atue ajudando a ressurgência.
+
+Esse fluxograma pode ser útil para ajudar a pessoa que deverá ordenar os quadros -- mas você precisa garantir que ele realmente seja adequado, ou então elaborar outro!
+
+Desafio da fase: executar e analisar o fluxograma para ordenar um conjunto de n quadros, do maior para o menor, e entregar à Ressurgência um dos três itens:
+1. O fluxograma do jeito que está;
+2. O fluxograma melhorado;
+3. Outro fluxograma.
+
+Preste atenção às restrições:
+
+i. O fluxograma será utilizado por uma pessoa que não tem experiência com a resolução de problemas e não poderá contar com a sua ajuda para executá-lo. Portanto, ele deve ser fácil de entender e executar. 
+ii. Você não sabe quantos quadros estarão no salão para serem ordenados, então a sua solução deve funcionar para 1, 2, 3, ou n quadros (sendo n > 0).
+iii. Cada quadro ocupa apenas uma posição, logo, dois quadros não podem ocupar uma mesma posição (i.e., você não pode pendurar um quadro sobre o outro), e um quadro naturalmente não pode ocupar duas posições ao mesmo tempo.
+iv. No máximo 2 quadros podem estar fora da parede (não pendurados) num mesmo momento.
+v. Há um custo de 1 moeda a ser pago cada vez que um quadro for pendurado. Você pode analisar quantos quadros quiser, mas ao pendurar um quadro você paga 1 moeda.
+vi. A pessoa não poderá levar/usar nenhum outro dispositivo ou recurso durante a ordenação.
+
+Para essa fase, você deve:
+
+1. Analisar o fluxograma que você encontrou dentro do livro e explicar o algoritmo que ele representa.
+
+2. Indicar a quantidade de ações necessárias para concluir a ordenação, com relação à quantidade de quadros, considerando como ações: a) retirar um quadro da parede; b) pendurar um quadro na parede; c) comparar dois quadros.
+
+3. Indicar o custo de executar sua solução com relação à quantidade de quadros e ao número de vezes em que quadros são pendurados (i.e., as moedas que precisarão ser pagas para concluir a ordenação de n quadros).
+
+4. Explicar se você entregará: 1. O fluxograma do jeito que está; 2. O fluxograma melhorado; ou 3. Outro fluxograma que você criará, e justificar a sua decisão.
+
+5. Apresentar a sua solução: 1. O fluxograma do jeito que está; 2. O fluxograma melhorado; ou 3. Outro fluxograma que você criará.
+
+6. Compartilhar a sua solução como resposta ao seu tópico no fórum de Entregas das Fases, contemplando os itens 1 a 5, e reivindicar seus pontos de XP: máximo de 7 XP.
+
+Pergunta brinde: é possível fazer melhor do que o fluxograma atual? (Ex: ordenar n quadros pendurando menos vezes? e com menos comparações?) Por que?
+
+Dicas:
+
+i. execute o fluxograma exercitando a ordenação com elementos físicos (ex: livros, cartões físicos, etc.). Isso te ajudará a entender as ações (passos) necessárias para a ordenação e a sua sequência.
+ii. anote os passos e veja se é possível fazer de forma mais eficiente (por exemplo, com menos ações, especialmente pendurar menos vezes os quadros).
+iii. teste a solução com um conjunto pequeno de elementos, e depois vá aumentando a quantidade para ser se ela continua funcionand

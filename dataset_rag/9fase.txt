@@ -1,0 +1,58 @@
+fase 9
+
+
+Por causa da sua solução, a Ressurgência conseguiu salvar uma grande parte dos valiosos itens de conhecimento que estavam armazenados no prédio do antigo DInf. Os itens estavam sendo reunidos e os planos agora eram disseminá-los na maior extensão possível Reino afora.
+
+Agora, era a hora de focar em outro problema: as moedas!
+
+Uma das mensagens encontradas atrás dos quadros alertou que as moedas pagas como recompensa no desafio da ordenação dos quadros não eram simples moedas e deviam ser guardadas. Agora, aproveitando o efeito do Soro da Verdade, a Ressurgência descobriu que as moedas ativam uma espécie de “máquina do tempo” capaz de transmitir mensagens para o mesmo espaço do Reino do Politécnico, porém 33 anos atrás.
+
+Se isso realmente for verdade, então a Ressurgência teria um meio de transmitir alertas, mensagens e até mesmo esboços de soluções para problemas que antecederam ao Caso do Vestível Controlador. Algum impacto significativo talvez até possa ser feito, especialmente se a Ressurgência for capaz de cooptar e informar várias das mentes que tiveram algum tipo de envolvimento nos contextos (técnico, político, social) que se configuraram para que o vestível controlador existisse e desencadeasse a catástrofe global. Mesmo que tal feito não seja alcançado, no mínimo, se as pessoas do passado se conscientizassem sobre questões críticas de seu tempo, como os Objetivos do Desenvolvimento Sustentável que a ONU estabeleceu naquela época, o presente poderia se tornar uma realidade um pouco melhor (ou um pouco menos distópica).
+
+Não há outro modo de descobrir a verdade sobre as moedas senão verificando: na fortaleza da Reithorya, adaptada sobre o antigo prédio da tecnologia, está um Arcade Fliperama que pode ser ativado com as moedas do tempo. O Arcade está embutido em uma parede de concreto, com acesso pelo local onde um dia existiu o lendário CAAD, Centro Acadêmico Alexandre Direne (em homenagem a um dos grandes gurus do Departamento de Informática). São necessárias 11 moedas para ativar o Arcade e poder enviar alguma mensagem para a sociedade digital de 33 anos atrás.
+
+Obviamente, essa é mais uma armadilha do Reino para capturar a Ressurgência: as moedas oferecidas como recompensa pela finalização do desafio da ordenação são moedas do tempo, porém, em cada conjunto de 12 moedas, há uma moeda falsa!
+
+Segundo as informações reveladas pela pessoa infiltrada, uma das 12 moedas idênticas é uma moeda falsa aparentemente igual às demais. A única informação que se tem é que o peso da moeda falsa é diferente do peso das outras.
+
+Se uma moeda falsa for inserida no Arcade, em vez de ativar o envio de mensagens, o Arcade ativa o sistema de segurança da fortaleza, que abre o chão da sala e joga as pessoas para o poço sem saída. Ou seja: é preciso descobrir qual é a moeda falsa!
+
+No meio da sala em que está o Arcade Fliperama há uma balança de dois pratos que pode ser usada para pesar as moedas. Porém, a balança pode ser utilizada no máximo 3 vezes. Se for utilizada uma quarta vez sem que o Fliperama tenha sido ativado, ela também ativa o mecanismo que abre o chão da sala, jogando as pessoas diretamente para o poço sob a fortaleza.
+
+A situação é ainda mais complicada: uma vez que a balança é utilizada, as portas do antigo CAAD são trancadas e se torna impossível entrar ou sair da sala. A chave para a saída é a moeda falsa!
+
+Para destrancar as portas e poder sair do CAAD, a moeda falsa deve ser depositada em uma das fendas localizadas nas laterais da porta. Se a moeda falsa for mais pesada que as moedas do tempo, ela deverá ser inserida na fenda do lado esquerdo da porta; mas se a moeda falsa for mais leve, ela deverá ser inserida na fenda do lado direito. Se inserida na fenda errada: o chão se abre e o destino é o poço!
+
+Não há, portanto, margem para errar. É preciso garantir que as 11 moedas a serem utilizadas são verdadeiras “moedas do tempo”, e é preciso descobrir se a moeda falsa é mais leve ou mais pesada para saber em qual fenda ela deve ser depositada!
+
+—
+
+Ao longo dos anos, várias pessoas tentaram ativar o Arcade mas fracassaram. Algumas não conseguiram identificar a moeda falsa corretamente, e outras utilizaram a balança mais que três vezes. Mas onde elas falharam, você acertará! Por causa da sua comprovada habilidade na resolução de problemas, você é a esperança da Ressurgência para ativar o Arcade Fliperama do tempo!
+
+Você então chega à sala onde está o Fliperama portando um conjunto de 12 moedas que a Ressurgência conquistou no desafio da ordenação (graças a sua ajuda). Espalhadas pelo chão, você encontra folhas de uma impressão antiga de uma matéria sobre o Caso do Vestível Controlador que parece revelar aspectos chave dos eventos que antecederam ao biticídio: Vina Systems admite problemas com testes do “Vestível Controlador”. Você recolhe esses papéis e foca no que está logo à sua frente: a balança!
+
+No meio da sala, suspensa por um fio quase invisível, está a balança de dois pratos. O resultado da balança depende do peso das moedas colocadas em seus pratos: Se o conteúdo do prato da esquerda for mais pesado, o prato esquerdo desce e o prato direito sobe. O contrário acontece se o prato da direita for o mais pesado. Se os pesos forem iguais, a balança fica em equilíbrio.
+
+Utilizando a balança no máximo 3 vezes, você precisa identificar a moeda falsa e descobrir se essa moeda é mais leve ou mais pesada que as verdadeiras!
+
+Se você conseguir, você ativará o Fliperama Arcade e poderá sair da sala, deixando as portas abertas para a Ressurgência. Caso contrário, você cairá no poço e sua jornada na Ressurgência termina aí -- se tiver sorte. Se sobreviver à queda, o Reino certamente terá planos para você, e eles certamente não serão bons!
+
+Para essa fase, você deve:
+Resolução
+
+1. Resolva o desafio e explique como é possível identificar qual das 12 moedas é a moeda falsa, e se ela é mais leve ou mais pesada que as demais, usando a balança no máximo 3 vezes.
+
+2. Crie um algoritmo para resolver o problema e explique como ele funciona e porquê ele resolve o problema. Sua explicação deve capturar o máximo de informação do problema e cobrir todos os casos possíveis.
+
+3. Entregue sua solução em um novo post no fórum Entregas das Fases, e reivindique seu XP pela resolução (máximo: 8 XPs).
+
+Dica: em cada uso da balança, tente maximizar a quantidade de informação obtida sobre todas as moedas.
+
+Desafios adicionais:
+
+Considerando o mesmo problema para um número n de moedas, para n > 2:
+i- Qual o número mínimo de pesagens para resolver o problema para 3 moedas, sendo uma falsa?
+ii- Qual o número mínimo de pesagens para resolver o problema para 4 moedas, sendo uma falsa?
+iii- Qual o número mínimo de pesagens para resolver o problema para 5 moedas, sendo uma falsa?
+iv- Qual o número mínimo de pesagens para resolver o problema para n moedas, sendo uma falsa?
+v- Sabendo que a moeda falsa é mais leve que as demais, é possível diminuir o número de pesagens?

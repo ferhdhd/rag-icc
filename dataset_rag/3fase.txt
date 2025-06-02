@@ -1,0 +1,54 @@
+fase 3
+
+
+
+Após adentrar o santuário que outrora abrigava o Departamento de Informática, você começou a explorar os espaços ocupados pelos laboratórios de pesquisa, auditórios, salas de reunião, salas de docentes e, também, a lendária passarela que foi palco de muitas reuniões e discussões calorosas, e abrigou muitas pessoas estudando e trabalhando por uma Computação mais socialmente consciente e democrática.
+
+Você perdeu a noção do tempo explorando equipamentos ainda disponíveis nos espaços dos laboratórios, como os diferentes robôs e kits de robótica do Lab VRI (Visão, Robótica e Imagem), os primeiros headsets para Interface Cérebro-Computador no Lab de IHC (Interação Humano-Computador), e os resultados de pesquisas teóricas no Lab TEORIA, e de computação gráfica no Lab IMAGO.
+
+No interior do DInf você encontrou muitos livros, artigos e registros antigos que tratavam de tecnologias e soluções que hoje existem quase que apenas nos breves relatos daqueles que ainda se lembram. Fazia sentido que o Reino e aqueles interessados em manter o acesso à informação algo distante da realidade das pessoas quisessem bloquear o acesso ao departamento.
+
+De repente, você observa um exemplar do livro “Algoritmos - Teoria e Prática”, de Thomas Cormen, repousando sobre uma pequena mesa de centro feita de madeira, em frente a passarela. O livro, na edição de capa vermelha, parecia estrategicamente posicionado para que você o encontrasse.
+
+Com dificuldades de conter sua emoção ao encontrar aquela relíquia, você logo começou a folhear o livro, devorando os conteúdos sobre noções de complexidade, notação assintótica, programação dinâmica e teoria de grafos… Mas foi uma frase escrita na contracapa que lhe chamou a atenção:
+ “Encontre a sala que abrigava o maior espelho do hemisfério sul e lá estará o seu desafio!”
+
+—
+
+Você já havia ouvido falar muito sobre um “espelho” que fora abrigado pelo DInf em uma das salas de seu piso inferior. Alguns mitos diziam que o espelho continha um poder computacional mágico capaz de conceder acesso a qualquer informação imaginável… enquanto outras explicações menos fantasiosas contavam que se tratava de um espelho de software livre hospedado em um datacenter moderno para a época.
+
+Você seguiu pela entrada do corredor que dá acesso aos antigos laboratórios de informática do piso inferior e começou a procurar por alguma entrada que pudesse ser a da sala do antigo datacenter. De repente, você quase vai ao chão ao tropeçar em objetos que pareciam “peças de engrenagens”. Bem à sua frente há uma porta protegida por uma grade de ferro – provavelmente colocada ali pelo reino há alguns anos para impedir o acesso. É ali a entrada da sala que você procura!
+
+Há diversas peças de engrenagens (rodas de ferro dentadas) acumuladas em frente à porta. As peças possuem tamanhos muito parecidos, com variações na quantidade de dentes (de 1 a 50) e nas cores. Há peças com cores e quantidade de dentes repetidas.
+
+A grade está travada e a manivela que deveria abri-la não funciona devido a problemas nas engrenagens. Ao tentar forçar a manivela, você nota que ela gira em falso, sem movimentar as engrenagens que fariam a grade abrir. No cabo da manivela há uma inscrição feita com algum objeto pontiagudo: “p. 100111010”.
+
+Você fica contemplando essa inscrição por alguns minutos, e é ao tentar acomodar o livro debaixo do braço que você tem a ideia de olhar em uma página específica. E lá você encontra as seguintes instruções, deixadas provavelmente por alguém da Ressurgência:
+
+— Substitua as 3 engrenagens da manivela por engrenagens que:
+
+1. O produto da quantidade de dentes é 36.
+
+2. A soma da quantidade de dentes é maior que a quantidade de barras horizontais da grade que bloqueia a entrada.
+
+E você necessariamente precisa saber que:
+
+3. A engrenagem com mais dentes é amarela.
+
+Cuidado: As engrenagens certas farão a manivela funcionar. Uma ou mais engrenagens erradas causarão a quebra dos dentes que conectam a manivela às engrenagens, inutilizando-a e impedindo que a grade seja aberta novamente.
+
+Pergunta: Quantos dentes têm as 3 engrenagens que fazem a manivela funcionar?
+
+Resolução
+
+Para essa fase, você deve:
+
+1. Resolver a fase individualmente e responder: quantos dentes têm as 3 engrenagens que fazem a manivela funcionar?
+
+2. Explicar como você chegou na solução: use um conjunto de passos, infográfico ou fluxograma mostrando como chegou na solução com base nas dicas recebidas.
+
+3. Compartilhar sua solução (número das engrenagens e explicação) como um novo post no seu tópico do fórum de Entregas das Fases.
+
+4. Reivindicar seus pontos de XP: essa fase pode te dar o máximo de 3 XPs. Ao final do seu post, indique quanto de XP você reivindica pela sua resolução.
+
+Pergunta brinde: em qual página do livro você procurou?

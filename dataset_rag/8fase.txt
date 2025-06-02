@@ -1,0 +1,57 @@
+fase 8
+
+Por causa do seu rápido trabalho, a Ressurgência conseguiu identificar a pessoa infiltrada e ainda teve tempo de fazer mais perguntas, confirmando o conteúdo de mensagens deixadas atrás dos quadros e recuperadas com a sua ajuda.
+
+Aproveitando o efeito do Soro da Verdade, a Ressurgência confirmou duas informações que exigem atuação imediata: 1. Os rumores são verdadeiros: as moedas pagas como recompensa no desafio da ordenação dos quadros não são simples moedas. 2. O Reino decidiu lacrar de vez o acesso ao antigo Departamento de Informática e destruir todo material ainda restante que pudesse ter relação com a antiga Computação e sua história.
+
+O Reino via nos conhecimentos na Computação, suas teorias e aplicações, áreas e subáreas, resultados de pesquisa e desenvolvimento, uma ameaça constante ao propósito de manter controle sobre o conhecimento. Para o Reino, a própria história da Computação devia ser apagada junto com o entendimento de um acesso universal das pessoas ao conhecimento.
+
+O acesso participativo e universal ao conhecimento, que chegou a ser um dos Grandes Desafios de Pesquisa em Computação no Brasil, agora era um sacrilégio. Mais ainda: nos materiais da época havia registros de notáveis feitos desenvolvidos por mulheres cientistas, pesquisadoras, professoras, profissionais da área, que revolucionaram a humanidade, e isso não podia ser de conhecimento público. Registros do movimento de software livre, seus valores e suas contribuições, deviam ser todos destruídos. Havia também registros de contribuições de outros grupos perseguidos, como Hedy Lamarr e Alan Turing. Turing, que era considerado por muitos o pai da Computação moderna, foi perseguido pelo governo inglês por causa de sua orientação sexual. Para manter o controle, esse tipo de conhecimento não deveria mais existir. Tudo o que contrariasse o domínio do Reino deveria ser destruído!
+
+Não há, portanto, tempo para esperar. É preciso remover do DInf a maior quantidade possível de itens de informação valiosos. E é preciso fazer isso agora!
+
+A essa altura dos eventos, você já sabe que todas as pessoas da Liga do Pensamento Computacional ou já fazem parte da Ressurgência, ou compartilham de seu propósito. Depois de conhecer e viver a ideia de um conhecimento aberto, democrático, de amplo acesso a todas as pessoas, sem discriminação, não é mais possível pensar da mesma forma que antes.
+
+O desafio, agora, é utilizar o apoio das pessoas da Liga para salvar a maior quantidade possível de itens valiosos do DInf antes que eles sejam destruídos de vez e o acesso seja lacrado.
+
+Visando salvar os itens de maior valor, a Ressurgência divulgou uma lista com estimativas do valor simbólico de alguns itens, com valores variando de: 1 a 25.000 adas (moeda própria criada pela Ressurgência), e de seus volumes aproximados (em cm³).
+
+Exemplos de itens da lista:
+
+- Quadros raros de Grandes Nomes da Computação, como Ada Lovelace, Alan Turing, Annie Leslie, Barbara Liskov, Grace Hopper, Hedy Lamarr, Margaret Hamilton. Volume aproximado: 5.000 cm³; Valor: 15.000 adas;
+
+- Outros quadros de Grandes Nomes da Computação. Volume aproximado: 5.000 cm³; Valor: 10.000 adas;
+
+- Matéria impressa sobre o caso do vestível controlador: Projeto do “Vestível Controlador” negligenciou a experiência do usuário. Volume aproximado: 300 cm³; Valor: 5.000 adas;
+
+- Matéria impressa sobre o caso do vestível controlador “IA preconceituosa” pode estar por trás do acidente aéreo que matou 113 pessoas. Volume aproximado: 300 cm³; Valor: 5.500 adas;
+
+- Livros clássicos, como o livro “Algoritmos: teoria e prática”, “Engenharia de Software”, “Artificial Intelligence", “Interaction Design”, “Computer Architecture”, “The Art of Computer Programming”, etc. Volume aproximado: 15.000 cm³; Valor: 20.000 adas;
+
+- Protótipo de jogo sobre a Máquina de Turing. Volume aproximado: 2.000 cm³; Valor: 7.500 adas;
+
+- Outros artefatos históricos, com o respectivo volume e valor.
+
+As únicas garantias que você tem são:
+
+1. Cada pessoa da Liga possui uma mochila que caracteriza a Liga do Pensamento Computacional;
+2. A mochila tem capacidade limitada que não pode ser ultrapassada, senão a mochila não fecha;
+3. As pessoas da liga ainda possuem acesso ao DInf por causa das placas dos Labs colocadas na Fase 02;
+4. No DInf, há uma quantidade de n itens, de diferentes volumes, que são valiosos para a Ressurgência.
+
+Sabendo disso, sua missão agora é elaborar um algoritmo que ajude cada pessoa que entrar no DInf a sair de lá com o maior valor possível em itens dentro de sua mochila! Como as mochilas possuem capacidade limitada, é preciso saber escolher bem!
+
+Agora, é preciso elaborar a solução e passá-la a todas as pessoas da liga o mais rápido possível!
+
+Para essa fase, você deve:
+
+1. Complete a missão: proponha um algoritmo que ajude uma pessoa a encher a mochila de modo que ela carregue o maior valor possível de ser carregado.
+2. Represente seu algoritmo na forma de um fluxograma fácil de entender e executar (pois outras pessoas utilizarão e você não estará do lado para explicar).
+3. Explique como seu algoritmo funciona e porquê ele resolve o problema.
+4. Crie um post no seu tópico no fórum Entregas das Fases para entregar sua solução, e reivindique seus pontos de XP (máximo: 8 XP), justificando a pontuação solicitada.
+
+Analise a sua solução:
+
+O algoritmo é fácil de entender e executar?
+O fluxograma está correto?
+O algoritmo resolve o problema de forma eficiente? Como poderia ser melhor?

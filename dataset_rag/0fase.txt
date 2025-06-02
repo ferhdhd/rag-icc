@@ -1,0 +1,98 @@
+===== FASE 00 =====
+
+# Introdução ao Cenário: O Caso do Vestível Controlador
+
+Após os eventos do que ficou conhecido como “O Caso do Vestível Controlador”, uma atuação orquestrada de dispositivos vestíveis, conectados à Internet das Coisas (IoT) e governados por uma IA, gerou uma espécie de sistema socioenativo em escala global.
+
+Nesse tipo de sistema, as atividades perceptuais, cognitivas e motoras das pessoas servem como entradas (input) para uma IA que controla sistemas conectados à Internet, como dispositivos vestíveis, eletrodomésticos, automóveis, câmeras de segurança, etc. Essa IA produz respostas (output) e atua por meio desses diversos dispositivos. Essas respostas são, por sua vez, recebidas como entrada pelos sistemas perceptuais das pessoas, gerando um ciclo que se retroalimenta.
+
+## Fragmentação da Informação
+
+Não se sabe ao certo o que ocorreu ao longo de 2022. As poucas informações disponíveis à população são fragmentos de uma série de reportagens produzidas por uma revista eletrônica chamada Horizontes, mantida por uma organização denominada Sociedade Brasileira de Computação (SBC).
+
+Os fragmentos sugerem que uma falha tenha sido propagada por todo o sistema socioenativo e que este, ao tentar conter a propagação, tenha interferido nos sistemas motor, perceptual e cognitivo das pessoas, desencadeando catástrofes simultâneas em escala global.
+
+Registros mencionam:
+- Quedas de aviões
+- Explosões de usinas nucleares
+- Rompimentos de barragens
+- Vazamento de armas químicas e biológicas
+- Interrupções nos serviços de energia elétrica e água
+
+Essas catástrofes levaram ao colapso da outrora sociedade da informação, danificando irremediavelmente toda a infraestrutura computacional e de comunicação digital.
+
+## O Mundo Pós-Colapso
+
+De volta ao analógico, o caos impera. Duas décadas de tentativas de reconstrução foram frustradas pela proliferação de fungos e bactérias super resistentes, responsáveis pelo que veio a se chamar de Apocalipse Zumbi. Mais uma década se passou até que a pandemia terminasse.
+
+Os poucos humanos sobreviventes se organizaram em pequenos reinos neomedievais. A informação, antes abundante, tornou-se privilégio de poucos — os membros da infocracia, elites que controlam o acesso ao conhecimento.
+
+# A Sua Jornada
+
+Dentre os sobreviventes está você. Você conquistou fama nos arredores do Reino do Politécnico pela sua habilidade em resolver problemas com análise e artefatos mecânicos simples.
+
+Graças à sua reputação, você foi convocado para integrar a League of Computational Thinking (Liga do Pensamento Computacional): uma competição que exige estratégias computacionais básicas como:
+- Abstração
+- Decomposição
+- Reconhecimento de padrões
+- Pensamento algorítmico
+
+Participar de uma liga é essencial à sobrevivência nos reinos atuais.
+
+## Sobre a Liga
+
+A Liga do Pensamento Computacional é respeitada e temida. Por um lado, ela resolve grandes problemas da sociedade. Por outro, desafia os interesses das elites que controlam o conhecimento.
+
+Essas elites tentam manter os membros da liga isolados, sem possibilidade de cooperação. Mesmo assim, há rumores de um grupo chamado A Ressurgência, formado por integrantes e ex-integrantes da liga que lutam pela libertação da informação. Acusados de tráfico de informação, são perseguidos incansavelmente.
+
+# Seu Papel
+
+Você atuará nesse cenário:
+- Ganhando experiência
+- Superando desafios
+- Desvendando os mistérios do Caso do Vestível Controlador
+- Enfrentando as opressões do reino
+
+# Estrutura da Liga
+
+13 Fases ao total:
+
+Fases 01 a 09:
+Desafios individuais para exercitar suas habilidades.
+
+Fases 10 a 12:
+Trabalho em equipe com resolução de problemas reais.
+
+Fase 13 – A Fase Final:
+Enfrentará "The Big Boss" usando toda sua XP para vencer a liga (e a disciplina).
+
+# Sistema de Níveis
+
+Para subir de nível na liga, é necessário:
+- Adquirir XP
+- Superar as fases com excelência e dentro do prazo
+
+Recompensas: Emblemas que representam seu "elo" na liga:
+
+Nível 1. Iron        → Fases 01 e 02
+Nível 2. Bronze      → Fases 03 e 04
+Nível 3. Silver      → Fase 05
+Nível 4. Gold        → Fase 06
+Nível 5. Platinum    → Fase 07
+Nível 6. Diamond     → Fase 08
+Nível 7. Master      → Fase 09
+Nível 8. GrandMaster → Fases 10 e 11
+Nível 9. Challenger  → Fase 12
+
+A partir do Platinum, você integra o grupo de elite da liga.
+Se chegar ao nível Master, torna-se uma lenda.
+
+# Início da Jornada
+
+As Fases 01 e 02 serão disponibilizadas na segunda-feira, 27/03.
+
+Para dúvidas sobre organização, objetivos, métodos ou prazos, consulte:
+- Agenda da Disciplina
+- Apresentação da Disciplina
+
+Boa sorte. As fases estão lhe esperando.
