@@ -7,7 +7,7 @@
 - Para instalar as bibliotecas: 
 
 ```python3
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Passo a Passo
